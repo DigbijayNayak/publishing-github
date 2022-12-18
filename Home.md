@@ -1,3 +1,5 @@
+[Home](README.md) | [Home](Cast.md) | [Home](Collectibles.md)
+
 <img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" style="width: 300px;">
 
 # StarGazers
